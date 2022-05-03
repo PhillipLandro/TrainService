@@ -1,0 +1,20 @@
+﻿package trainservice;
+
+/**
+ * Hauptklasse zum Erzeugen der gesamten Animation.
+ *
+ * @author Frank Sonntag
+ */
+public class TrainService {
+
+    /**
+     * Platzieren Sie hier Ihren Quellcode zum Erzeugen der Zuganimation mit
+     * Threads.
+     *
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        //TODO - Implementieren Sie hier den Aufruf der Zug-Animation
+    	    	
+    }
+}
